@@ -1,2 +1,8 @@
 siri welcome
+<<<<<<< HEAD
 lets modify this
+=======
+i will modify first
+then later anyone can modify
+this is the process
+>>>>>>> b88c583204124c530c9204682287c62befbee0c7
